@@ -21,23 +21,23 @@ provider "registry.terraform.io/cloudflare/cloudflare" {
 }
 
 provider "registry.terraform.io/hashicorp/google" {
-  version     = "5.23.0"
-  constraints = ">= 4.40.0, < 6.0.0"
+  version     = "6.33.0"
+  constraints = ">= 4.40.0, < 6.33.1"
   hashes = [
-    "h1:2VJTKCZWQ1DaNwclFxSo27avsYwWgq/itwLZ3xKyl/o=",
-    "h1:my3kqg4hIpWLu2WwRewOFxBS+FXfkAIiw8xTYVPNS9M=",
-    "h1:xpm8QPNp2soGqIEnf4SNoZaTlQ/SbNH63BooJkSbgX0=",
-    "zh:18eaaa51a8b30fed61c73799b8716a9bd08ccd382bc395c63e45b9a52ed8b300",
-    "zh:20c71acf091a282db88473ec6f0a684ac59891713c49b2ff1cb35c1539da3121",
-    "zh:2e3e9ae1d3b045dcaa39053f4d1d066fa17e5b81f4ed7a5e57cc4e6e1e651900",
-    "zh:531d1552f251c5a0176543defa95c2cc259fc8b9359ef6fd3df404dcead555a0",
-    "zh:67a7800023fa09a7d87ac02231364988749663e37e2906aa89c70eecc5955ccf",
-    "zh:6a8076b59d2766a05ffe521cc115f3e8df7cd2ee4c6d60de4ee4636f47714f2e",
-    "zh:7b39fe720bb7a1f35cd0e4dfeff617338342fc2d16bb22274b42c080ff633140",
-    "zh:b181e04c32aa53ad78eaf6f2746ec5fd94977187ba7314ae8e9815ef6ea56532",
-    "zh:bf605be2f8942d5cabb8755ff0d18f243b53f1148f5f32db762667cf64bfa949",
-    "zh:e981988558310df5d94e56adaa76f7444d991357fe9600c46eb70fa61f4a1394",
+    "h1:8Xy1cSwUTCftZTIO3oyYvgFBowa8/HW6Wl46LOYDjoI=",
+    "h1:DrsQdtT4+qF+usfEaQjtCBqI+FBMj2Ot6jkJmxEyRmo=",
+    "h1:boMceijxldXypXsaGn9gLoJSRumDGV+FkmYSxQnZX5I=",
+    "zh:1bce89797564bc71f8907cdf0e232ed523a403997d663ce82dd61cef468d54d4",
+    "zh:296eed917e311422470fc7df194b52cd45f5bb26ba92a27e1a2d5716a0c47f7f",
+    "zh:3a21a1c06ea4c3021a9a9dc40e020ea0596be1c833ba609643366c9a7a04ff23",
+    "zh:44c7307bf53264b42ae4d1fe1780c6be34d22a16f93b24ba4c9536389f20213a",
+    "zh:4518f045317222cbcb532db676ac7707bc2fdddbe62a9df2e68e6e6953c9e911",
+    "zh:4f40f809222142997023eb08c4fc0527d8d0abd27e21b6d2df9a6aba79c672fe",
+    "zh:6f0bdaebf11e78f24f2036935f49d907eb99283081ecdaef3e3f45eb7562566f",
+    "zh:93933870c585f32074243a83eee967c5ed5307b825c4f88a80bb9895fc90a2d7",
+    "zh:ae75d0bfeffc2b461c4f904e84d69c0bec5381f90c6b79c31d23fd0ae20da34e",
+    "zh:b808692d49208df953a51b74b2ce6343f9d17c881949b9e00afbc245fdcd5aba",
+    "zh:e69ac3486fd7556792895d50d9ed17e7550cc107731926f98cc2a9e8fa74002d",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
-    "zh:f663776d79e7e5d131b4fbd68c152f2bef3e899a19c9baabe3a441e3f5e809ea",
   ]
 }
