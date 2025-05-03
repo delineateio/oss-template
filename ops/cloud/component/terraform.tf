@@ -3,11 +3,11 @@ terraform {
   required_providers {
     cloudflare = {
       source  = "cloudflare/cloudflare"
-      version = ">= 3.6.0, < 5.0.0"
+      version = ">= 3.6.0, < 5.3.1"
     }
     google = {
       source  = "hashicorp/google"
-      version = ">= 4.40.0, < 6.0.0"
+      version = ">= 4.40.0, < 6.33.1"
     }
   }
   backend "remote" {}
