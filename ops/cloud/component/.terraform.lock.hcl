@@ -21,23 +21,23 @@ provider "registry.terraform.io/cloudflare/cloudflare" {
 }
 
 provider "registry.terraform.io/hashicorp/google" {
-  version     = "6.33.0"
-  constraints = ">= 4.40.0, < 6.33.1"
+  version     = "7.1.0"
+  constraints = ">= 4.40.0, < 7.1.1"
   hashes = [
-    "h1:8Xy1cSwUTCftZTIO3oyYvgFBowa8/HW6Wl46LOYDjoI=",
-    "h1:DrsQdtT4+qF+usfEaQjtCBqI+FBMj2Ot6jkJmxEyRmo=",
-    "h1:boMceijxldXypXsaGn9gLoJSRumDGV+FkmYSxQnZX5I=",
-    "zh:1bce89797564bc71f8907cdf0e232ed523a403997d663ce82dd61cef468d54d4",
-    "zh:296eed917e311422470fc7df194b52cd45f5bb26ba92a27e1a2d5716a0c47f7f",
-    "zh:3a21a1c06ea4c3021a9a9dc40e020ea0596be1c833ba609643366c9a7a04ff23",
-    "zh:44c7307bf53264b42ae4d1fe1780c6be34d22a16f93b24ba4c9536389f20213a",
-    "zh:4518f045317222cbcb532db676ac7707bc2fdddbe62a9df2e68e6e6953c9e911",
-    "zh:4f40f809222142997023eb08c4fc0527d8d0abd27e21b6d2df9a6aba79c672fe",
-    "zh:6f0bdaebf11e78f24f2036935f49d907eb99283081ecdaef3e3f45eb7562566f",
-    "zh:93933870c585f32074243a83eee967c5ed5307b825c4f88a80bb9895fc90a2d7",
-    "zh:ae75d0bfeffc2b461c4f904e84d69c0bec5381f90c6b79c31d23fd0ae20da34e",
-    "zh:b808692d49208df953a51b74b2ce6343f9d17c881949b9e00afbc245fdcd5aba",
-    "zh:e69ac3486fd7556792895d50d9ed17e7550cc107731926f98cc2a9e8fa74002d",
+    "h1:5PJaqyUVnxOBuJhkl+ygiFgAqm31xBAyhaHrFlIjwxI=",
+    "h1:6joP3sIuz+euHNSw4FjTma0IG4aBjCg3W5E0iYIDYXY=",
+    "h1:cxS0ko3WVF1USu0YT2sbjCCT2oBXh/xvGQtyoKx05I4=",
+    "zh:271095580776620d5fa21dd60859a12d9c1d83a60e116069001e3206b78f01c3",
+    "zh:303b7aa8c040a6d1c37792e3fb298e5311635ad0c81e3f8c31e6bb6d762c3cb0",
+    "zh:59d31f5bf617423126d9e4a297509fe08a57ba83ae7a947ba417c3f6dd10ccc0",
+    "zh:803a178250832d773afb0f16050eb164d58fcacf17981da85169165afa6dc2f7",
+    "zh:a2db4da218f1546f3d33ce9a100afd9c1b9e8da833f144bcb1fbfe4b2383f66d",
+    "zh:ac1e2fc293ade42d3955fcb1bd6f25767de28210e0314f755656d4e735ec0983",
+    "zh:adb034cd384d9f55555d58fb0e6ceb8e7b562121769721bcc22403cebe2e67fc",
+    "zh:ccf2c397d2788fc5358f5080d55fb4379c27656bccaf0db24b3814b34ffa0019",
+    "zh:d11850d7b9ce005501ba993fe55cbae878016e2c7a5ddc8e3f3113392f254e41",
+    "zh:e4ef4e036c9d5fb823e2b28f770cb941cccdde896e9cacf0df4e85bdf7d66461",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+    "zh:f7b37c8fc194aeb24c341dd9f34919b2a0eac8302a3220929310d2fbe60e7832",
   ]
 }
