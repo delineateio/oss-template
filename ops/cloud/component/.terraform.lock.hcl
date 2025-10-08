@@ -21,23 +21,23 @@ provider "registry.terraform.io/cloudflare/cloudflare" {
 }
 
 provider "registry.terraform.io/hashicorp/google" {
-  version     = "6.33.0"
-  constraints = ">= 4.40.0, < 6.33.1"
+  version     = "7.6.0"
+  constraints = ">= 4.40.0, < 7.6.1"
   hashes = [
-    "h1:8Xy1cSwUTCftZTIO3oyYvgFBowa8/HW6Wl46LOYDjoI=",
-    "h1:DrsQdtT4+qF+usfEaQjtCBqI+FBMj2Ot6jkJmxEyRmo=",
-    "h1:boMceijxldXypXsaGn9gLoJSRumDGV+FkmYSxQnZX5I=",
-    "zh:1bce89797564bc71f8907cdf0e232ed523a403997d663ce82dd61cef468d54d4",
-    "zh:296eed917e311422470fc7df194b52cd45f5bb26ba92a27e1a2d5716a0c47f7f",
-    "zh:3a21a1c06ea4c3021a9a9dc40e020ea0596be1c833ba609643366c9a7a04ff23",
-    "zh:44c7307bf53264b42ae4d1fe1780c6be34d22a16f93b24ba4c9536389f20213a",
-    "zh:4518f045317222cbcb532db676ac7707bc2fdddbe62a9df2e68e6e6953c9e911",
-    "zh:4f40f809222142997023eb08c4fc0527d8d0abd27e21b6d2df9a6aba79c672fe",
-    "zh:6f0bdaebf11e78f24f2036935f49d907eb99283081ecdaef3e3f45eb7562566f",
-    "zh:93933870c585f32074243a83eee967c5ed5307b825c4f88a80bb9895fc90a2d7",
-    "zh:ae75d0bfeffc2b461c4f904e84d69c0bec5381f90c6b79c31d23fd0ae20da34e",
-    "zh:b808692d49208df953a51b74b2ce6343f9d17c881949b9e00afbc245fdcd5aba",
-    "zh:e69ac3486fd7556792895d50d9ed17e7550cc107731926f98cc2a9e8fa74002d",
+    "h1:/i3rCyqJ7wPAiEpVaxQPnxf6s9UiGbcG43Cr9wq6x3Y=",
+    "h1:JYsO3fV5OtaNuRTdjGZC1Z3Ku1ZIrRJGwXwsBjtWudk=",
+    "h1:Rt2AhzC3+J1d3ayEP1CA2JOHRKdoSa6QjD2/Um2xVIA=",
+    "zh:0c70c768b0a34d7a61de70d0e85cf0057820556647bbce2384972a45d7092e4e",
+    "zh:0cb7aab89cd435c5c8dab9231ea176d64fdf1df1125db15a6b9ead978a93c0b2",
+    "zh:32f25c42214bb356bb67cef6057c9904f2878cd053a7760e5ee3737619f28638",
+    "zh:38b05b1171ab086c88b95d379120fb6c28c9e895ae924557c11c35e138319119",
+    "zh:39d8206d453a614fa0be3aeac8ea3921fb3ab7ed122205cbbcc2a41ca6176cb5",
+    "zh:58d9059aa6b4aab5ede4fc173dcdc7b4d042d0b1a1ab55407dd345931d7f4815",
+    "zh:a4bc001c8ac7700d0107155296250c3b8969511e1a488f3b318f3db62362eef2",
+    "zh:cc75e25db4bb672ebc200a89d6cff9ff0b9911e14e188d1b4429bb3511d2b35f",
+    "zh:d7f7639930735f17b2b4f73814204a9a050186ea7e1c2671a52e0fa7ddf7a001",
     "zh:f569b65999264a9416862bca5cd2a6177d94ccb0424f3a4ef424428912b9cb3c",
+    "zh:ff1190ae618dae9243de59caf4149abb4a9b775cb6439f119cd32a30f1a21820",
+    "zh:ff15b7b86787f6fd186211e7c37a72f2cc70374b284aaf063e1f989717441161",
   ]
 }
